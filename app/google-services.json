@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819399812273",
+    "project_id": "appbanhang-ebd62",
+    "storage_bucket": "appbanhang-ebd62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819399812273:android:03440a797cc52f905eee90",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819399812273-hhuqk3qap34r9g0o1oa3fft82kfu0ms1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-A-xruQTQgd2b3AwemZDyFWj6VmdxGOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819399812273-hhuqk3qap34r9g0o1oa3fft82kfu0ms1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
